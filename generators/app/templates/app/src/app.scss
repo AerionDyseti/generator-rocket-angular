@@ -1,0 +1,5 @@
+// Here, we can do includes on all of the SCSS from the app itself.
+@import 'global/site-theme';
+
+@import 'routes/home/home';
+@import 'routes/component/component';
